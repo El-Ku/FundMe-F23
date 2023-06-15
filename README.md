@@ -16,6 +16,8 @@
 
 # Getting Started
 
+This contract allows users(funders) to fund a particular contract with native token. The accumulated tokens can be withdrawn by the owner of the contract anytime. There is a minimum amount of dollars worth of tokens one has to deposit funds successfully. 
+
 ## Requirements
 
 - [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
@@ -37,7 +39,7 @@ forge build
 Deploy:
 
 ```
-forge script scripts/DeployFundMe.s.sol
+forge script script/DeployFundMe.s.sol
 ```
 
 ## Testing
