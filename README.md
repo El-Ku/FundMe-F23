@@ -27,8 +27,8 @@
 ## Quickstart
 
 ```
-git clone https://github.com/Cyfrin/foundry-fund-me-f23
-cd foundry-fund-me-f23
+git clone https://github.com/El-Ku/FundMe-F23
+cd FundMe-F23
 forge build
 ```
 
