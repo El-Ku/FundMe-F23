@@ -1,0 +1,6 @@
+FundMeTest:testDeploymentValues() (gas: 16697)
+FundMeTest:testDeposit() (gas: 138591)
+FundMeTest:testDepositViaFallback() (gas: 18216)
+FundMeTest:testDepositViaReceive() (gas: 17759)
+FundMeTest:testGetListOfUsers() (gas: 236553)
+FundMeTest:testWithdraw() (gas: 181302)
